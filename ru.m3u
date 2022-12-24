@@ -30,7 +30,7 @@ http://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
 http://ntv-hls-orig.cdnvideo.ru/th_style/mono.m3u8
 
 #EXTINF:-1 tvg-id="Пятый канал",Пятый канал
-http://212.95.49.209:8081/andr/pyatyi.stream/chunks.m3u8?nimblesessionid=45693029
+
 
 #EXTINF:-1 tvg-id="Домашний",Домашний
 http://95.217.196.109:8081/russia/domashniy_sd_new/playlist.m3u8
