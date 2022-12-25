@@ -52,7 +52,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8?checke
 
 #EXTINF:-1 tvg-id="TNTInternational.ru" tvg-logo="https://i.imgur.com/uvmCMCG.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,ТНТ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s19/04.m3u8
+http://212.95.49.209:8081/andr/tnt.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Пят НИЦА",Пят НИЦА
 https://freestream.vpntester.net/memfs/98f96533-db16-4a58-aa38-87e5c460f5e0_var0.m3u8?session=BYmcutVXrwGvyinopeAGmi
