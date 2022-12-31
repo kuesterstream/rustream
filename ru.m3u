@@ -39,7 +39,7 @@ http://95.217.196.109:8081/russia/domashniy_sd_new/playlist.m3u8
 http://31.148.48.15/Dom_Kino/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-id="РЕН ТВ",РЕН ТВ
-
+http://50.7.144.158:8585/s4g_ren/index.m3u8?wmsAuthSign=1672509747p132i701i01i671S95c887dd56feebf0c38138226aab8a9e
 
 #EXTINF:-1 tvg-id="Мир HD",Мир HD
 
