@@ -41,8 +41,8 @@ http://31.148.48.15/Dom_Kino/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="РЕН ТВ",РЕН ТВ
 
 
-#EXTINF:-1 tvg-id="Мир HD",Мир HD
-
+#EXTINF:-1 tvg-id="Мир HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_ru.jpg",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" group-title="News",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checkedby:iptvcat.com
